@@ -35,7 +35,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          editUrl: 'https://github.com/varkhedigital/LibraSoft_Docs/tree/main/',
+          #editUrl: 'https://github.com/varkhedigital/LibraSoft_Docs/tree/main/',
         },
         blog: false,
         theme: {
