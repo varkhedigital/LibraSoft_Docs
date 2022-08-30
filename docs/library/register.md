@@ -17,13 +17,13 @@ Kütüphane kayıt işlemi sadece müdür yetkili kullanıcı tarafından yapıl
 
 ![Kütüphane Kayıt Ekranı](https://img.kutuphaneotomasyonu.web.tr/register-library.png)
 
-Eğer bir kurumda görevli değilseniz hesabınıza giriş yaptığınızda üst kısımda yer alan fotoğraftaki gibi bir ekran ile karşılaşacaksınız. Görünümde ya da işlevlerde zaman içerisinde değişiklik yapılabilir fakat genel özellikler aynı şekilde olacaktır.
+Eğer bir kurumda görevli değilseniz hesabınıza giriş yaptığınızda fotoğraftaki gibi bir ekran ile karşılaşacaksınız.
 
 ### Bilgilerin Doldurulması
 
 #### - Kurum Adı
 
-Kütüphanenizin adını belirtiniz. Raporlarda, ekranlarda bu kurum adı kullanılacaktır. **Kurum adı daha sonra sadece sistem yöneticisi tarafından güncellenebilir.** Lütfen doğru yazdığınızdan emin olunuz.
+Kütüphanenizin adını belirtiniz. Raporlarda, ekranlarda bu kurum adı kullanılacaktır.
 
 #### - Lisans Sahibi
 
@@ -33,22 +33,22 @@ Lisans sahibi olarak görünecek kişi ya da kurumları yazabilirsiniz. Örneği
 
 Yeni güncellemeler ile birlikte kurum türüne özel eklentiler eklenmesi planlanmıştır. Eklentilerden en iyi şekilde yararlanabilmek için lütfen kurumunuza en uygun kurum türünü seçiniz.
 
-#### - İl, İlçe, Adres
+#### - İl
 
-Fatura adresi olarak kullanılacaktır. Güncel tutulması büyük önem arz etmektedir. Güncelleme yapabilmek için lütfen sistem yöneticisi ile iletişime geçiniz.
+Bu ekranda sadece il bilgisi girilmektedir. Kayıt işlemi tamamlandıktan sonra ilçe ve adres bilgilerini girebilirsiniz.
 
 #### - Telefon Numarası, Mail
 
-Kurumunuz ile iletişime geçilmesi gereken durumlarda bu kısımda yer alan mail adresi ve telefon numarası kullanılacaktır. Kurumunuz ile başka yollardan iletişim kurulmayacaktır. İletişimsizlikten kaynaklı sorunlardan LibraSoft Kütüphane Otomasyonu sorumlu tutulamaz. Bilgilerin güncelliği kurumunuzun sorumluluğundadır.
+Kurumunuz ile iletişime geçilmesi gereken durumlarda bu kısımda yer alan mail adresi ve telefon numarası kullanılacaktır. Farklı bir iletişim kanalı tercih edilmeyecektir.
 
 ### Kayıt İşlemi
 
-Bilgileri doldurduktan sonra bilgilerin güvenliğinden emin olunuz. Üst kısımdaki işlem menüsünden **Kaydet** butonu ile kayıt işlemini tamamladıktan sonra ekranda başarılı bildirimini gördükten sonra sayfanız otomatik olarak yenilenecektir.
+Bilgileri doldurduktan sonra son kontrolleri sağlayarak bilgilerin doğruluğundan emin olunuz. Üst kısımda yer alan işlem menüsünden **Kaydet** butonu ile kayıt işlemini tamamlayınız. Eğer bir hata almazsanız ekran otomatik olarak güncellenecektir.
 
 _Sizi aramızda görmekten çok mutluyuz!_
 
 :::success Bilgilendirme
 
-Yeni kayıt yapan her kurum için 14 günlük deneme lisansı sistem tarafından otomatik tanımlanmaktadır. Bu sürede özelliklerden istediğiniz gibi yararlanabilir, sistemi test edebilirsiniz.
+Yeni kayıt yapan her kurum için 14 günlük deneme lisansı sistem tarafından otomatik tanımlanmaktadır. Bu sürede özelliklerden istediğiniz gibi yararlanabilir, sistemi test edebilirsiniz. Otomasyondan memnun kalırsanız deneme süresi sonunda satın alabilirsiniz.
 
 :::
