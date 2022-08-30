@@ -12,7 +12,7 @@ LibraSoft kütüphane otomasyonunu daha önce hiç kullanmadıysanız öncelikle
 
 :::info Bilgilendirme
 
-Kullanıcı hesabı sadece kurum personeli kullanıcılar için gereklidir. Herhangi bir kurum sahibi ya da görevlisi değil iseniz bir kullanıcı hesabına ihtiyacınız yoktur. _Şimdilik..._
+Kullanıcı hesabı sadece kurum personeli kullanıcılar için gereklidir. Herhangi bir kurum sahibi ya da görevlisi değilseniz bir kullanıcı hesabına ihtiyacınız yoktur. _Şimdilik..._
 
 :::
 
@@ -26,18 +26,18 @@ Açılan sayfada yer alan bilgilerin tamamını doldurmanız büyük önem arz e
 
 :::danger Uyarı
 
-Sisteme girmiş olduğunuz kimlik bilgileriniz sistem tarafından doğrulanacaktır. Kimlik bilgilerinizin doğrulanamamsı durumunda hesabınız oluşturulmayacaktır.
+Girmiş olduğunuz kimlik bilgileriniz sistem tarafından doğrulanacaktır. Kimlik bilgilerinizin doğrulanamamsı durumunda hesap oluşturma işlemine devam edemeyeceksiniz.
 Lütfen bilgilerin eksiksiz ve doğru olduğundan emin olunuz.
 
 :::
 
 #### - Ad, Soyad
 
-Ad, soyad bilginizin doğru olduğundan emin olunuz. Lütfen ad kısmnına ikinci adınız var ise ikinci adınızı da yazınız.  
+Ad, soyad bilginizin doğru olduğundan emin olunuz. Lütfen ikinci bir adınız var ise belirtmeyi unutmayınız. Ad, soyad bilgisi kimliğinizdeki gibi olmalıdır. 
 
 #### - TC Kimlik Numarası
 
-Sisteme giriş yaparken ve kurumlar tarafından işlem sağlanırken Türkiye Cumhuriyeti Kimlik Numaranız ile işlem sağlanacaktır.
+Sisteme giriş yaparken ve kurumlar tarafından işlem sağlanırken TC Kimlik Numaranız ile işlem sağlanacaktır.
 
 #### - Doğum Tarihi
 
@@ -45,13 +45,11 @@ Kimlik bilgilerinizin doğrulanması için gereklidir. Takvim ikonuna tıklayara
 
 #### - Mail Adresi
 
-Doğru bir mail adresi belirtmeniz büyük önem arz etmektedir. Sistem duyuruları aynı zamanda tarafınız ile iletişim sadece bu mail adresi üzerinden sağlanacaktır.
-Mail adresinizin güncelliği ve erişilebilir olması sizin sorumluluğunuzdadır.
+Doğru bir mail adresi belirtmeniz büyük önem arz etmektedir. Sistem ve kurum duyuruları bu mail adresi üzerinden gönderilecek, tarafınıza iletişim sadece bu mail adresi üzerinden sağlanacaktır. 
 
 #### - Telefon Numarası
 
-SMS bilgilendirmeleri için gereklidir. Telefon numaranızın güncelliğini sağlamak yine sizin sorumluluğunuzdadır.
-SMS bilgilendirme sistemi tamamlandığında sizden sms doğrulaması yapmanız istenecektir.
+SMS bilgilendirmeleri ve iki adımlı giriş için gereklidir. Telefon numaranızın güncelliğini sağlamak yine sizin sorumluluğunuzdadır.
 
 #### - Şifre
 
@@ -60,12 +58,12 @@ Yeni şifre atanamadığı ve hesabınıza erişemediğiniz durumlarda telefonun
 
 Sistem tarafınızdan oluşturduğunuz şifrenin güvenlik düzeyi kontrol edilecek ve sistem içerisinde belirlenen güvenlik standartlarında olması için tarafınıza bilgilendirme sağlanacaktır. 
 Minimum gereksinimler ise şu şekildedir.
- - En az 1 adet büyük harf içermelidir.
- - En az 1 adet küçük harf içermelidir.
- - En az 1 adet rakam içermelidir.
+ - En az 1 adet büyük harf,
+ - En az 1 adet küçük harf,
+ - En az 1 adet rakam,
  - En az 1 adet özel karakter içermelidir.
 
-Minimum gereksinimi karşılamayan şifreler sistem tarafından kabul edilmeyecek ve otomasyon hesabınız oluşturulmayacaktır.
+Minimum gereksinimi karşılamayan şifreler sistem tarafından kabul edilmeyecektir.
 
 ### Kayıt Ol
 
