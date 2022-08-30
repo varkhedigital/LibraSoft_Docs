@@ -21,51 +21,55 @@ Bilgilerin güncel olmamasından doğacak sorunlardan kurumunuz sorumludur.
 
 :::info Bilgilendirme
 
-Kilitli alanlarda güncelleme yapılması gerekiyor ise lütfen kurumsal@kutuphaneotomasyonu.web.tr mail adresine güncellenmesini istediğiniz bilgileri gönderiniz. Bu işlemi kurumunuzun sisteme kayıtlı olan maili ile yapmalısınız. Aksi halde sistem yöneticileri tarafından isteğiniz işleme alınmayacaktır.
+Kilitli alanlarda güncelleme yapılması gerekiyor ise lütfen kurumsal@kutuphaneotomasyonu.web.tr mail adresine güncellenmesini istediğiniz bilgileri gönderiniz.
 
 :::
 
 #### - Kurum Adı
 
-Kütüphanenizin adını belirtiniz. Raporlarda, ekranlarda bu kurum adı kullanılacaktır. **Sadece sistem yöneticisi tarafından güncellenebilir.**
+Kütüphanenizin adını belirtiniz. Raporlarda, ekranlarda bu kısımda belirtilen kurum adı kullanılacaktır.
 
 #### - Kurum Türü
 
-Yeni güncellemeler ile birlikte kurum türüne özel eklentiler eklenmesi planlanmıştır. Eklentilerden en iyi şekilde yararlanabilmek için kurumunuza en uygun kurum türü seçilmelidir. Sistem yöneticileri gerekli görmeleri durumunda statü doğruluğunu teyit etmek için belge talep edebilir. **Kurum türü bilgisi sadece sistem yöneticisi tarafından güncellenebilir.**
+Yeni güncellemeler ile birlikte kurum türüne özel eklentiler eklenmesi planlanmıştır. Eklentilerden en iyi şekilde yararlanabilmek için kurumunuza en uygun kurum türü seçilmelidir.
 
 #### - Kurum Durumu
 
-İki şekilde görüntülenebilir.
+> **Aktif Kurum:** Aktif bir lisansı bulunan, herhangi bir askıya alma cezası almamış kurumları ifade eder. Otomasyonu tam erişim ile kullanabilirler.
 
-> **Aktif Kurum:** Faaliyetlerine sorunsuz bir şekilde devam eden kurumları belirtir.
-
-> **Pasif Kurum:** Faaliyetleri otomasyon tarafından otomatik olarak ya da sistem yöneticisi tarafından manuel olarak durdurulmuş kurumları ifade eder. Bu durumdaki kurumlar otomasyon üzerinde işlem sağlayamazlar. _Kurumun kapalı olma sebebi **Kapalılık Nedeni** kısmında belirtilecektir. ![Kapalı Olma Nedeni Örnek](https://img.kutuphaneotomasyonu.web.tr/close-reason.png)
+> **Pasif Kurum:** Faaliyetleri otomasyon tarafından otomatik olarak ya da sistem yöneticisi tarafından manuel olarak askıya alınmış kurumları ifade eder. Kurumlar otomasyon üzerinde işlem yetkileri kısıtlıdır. _Kurumun faaliyetlerinin askıya alınma sebebi **Kapalı Olma Nedeni** kısmında belirtilecektir._ ![Kapalı Olma Nedeni Örnek](https://img.kutuphaneotomasyonu.web.tr/close-reason.png)
 
 #### - İl, İlçe, Adres
 
-Fatura adresi olarak kullanılacaktır. İlk seçimde kurumun müdür yetkili kullanıcısı tarafından seçilebilir durumdadır. İl seçimi yapıp kayıt işlemi gerçekleştirdikten sonra il seçim alanı kilitlenir ve ilçeler listelenir. İlçe seçilip kayıt işlemi gerçekleştirildiğinde ilçe alanı da aynı şekilde kilitlenir. **Güncelleme işlemi sadece sistem yöneticisi tarafından yapılabilir.**
+Fatura adresi olarak kullanılacaktır. Henüz bilgi girişi yapılmamış ise ilgili kısımlar aktiftir. Bilgi girişi yapıldığında otomatik olarak sistem tarafından kilitlenir ve düzenleme sağlanamaz.
+
+> İlçelerin görüntülenebilmesi için öncelikle il seçimi yapılarak kayıt işlemi yapılır.
+> ![Kilitli Olmayan Kısımlar](https://img.kutuphaneotomasyonu.web.tr/unlocked-inputs.png)
+
+> Bilgi girişi sağlandıktan sonra otomatik olarak ilgili alanlar kilitlenir.
+> ![Kilitli Kısımlarr](https://img.kutuphaneotomasyonu.web.tr/locked-inputs.png)
 
 #### - Telefon Numarası, Mail
 
-Kurumunuz ile iletişime geçilmesi gereken durumlarda bu kısımda yer alan mail adresi ve telefon numarası kullanılacaktır. Kurumunuz ile başka yollardan iletişim kurulmayacaktır.
+Kurumunuz ile iletişime geçilmesi gereken durumlarda bu kısımda yer alan mail adresi ve telefon numarası kullanılacaktır. Farklı bir iletişim kanalı tercih edilmeyecektir.
 
 #### - Kurum Sorumlusu
 
-Sistem tarafından otomatik olarak kurum kaydını gerçekleştiren kullanıcı olarak atanır. Değişiklik yapılabilmesi sadece kurum devir işlemi ile mümkündür. Detaylı bilgi için kurumsal@kutuphaneotomasyonu.web.tr mail adresinden ulaşınız.
+Kurum kayıt işlemini gerçekleştiren müdür yetkili kullanıcıdır. Kurum müdür değişikliği için lütfen destek ekibi ile iletişime geçiniz.
 
 #### - Lisans Anahtarı
 
-Sistem tarafından otomatik olarak atanır. Lisans işlemlerinde kullanılmaktadır. **Değişiklik yapılamaz.**
+Sistem tarafından otomatik olarak atanır. **Değişiklik yapılmaz.**
 
 ### Kayıt İşlemi
 
-Bilgileri doldurduktan sonra bilgilerin güvenliğinden emin olunuz. Üst kısımdaki işlem menüsünden **Kaydet** butonu ile kayıt işlemini tamamladıktan sonra ekranda başarılı bildirimini gördükten sonra sayfanız otomatik olarak yenilenecektir.
+Bilgileri doldurduktan sonra son kontrolleri sağlayarak bilgilerin doğruluğundan emin olunuz. Üst kısımda yer alan işlem menüsünden **Kaydet** butonu ile kayıt işlemini tamamlayınız.
 
 Bilgilerin güncellenmesinde problem yaşıyorsanız lütfen sistem yöneticisi ile iletişime geçiniz.
 
 ### Ekran Raporları 
 
-| Ekran Kodu | Rapor Kodu | Rapor Açıklaması | Rapor Türleri |
-|--|---|---|---|
-| LBRYINFO | L751TUQP | Görev Yapılan Kurum Bilgileri (Aktif Görev) | PDF |
-| LBRYINFO | UPJSIGMZ | Görevlendirme Geçmişi (Görev Yapılan Kurum ve Yetkiler) | PDF |
+| Ekran Kodu  | Rapor Kodu  |                     Rapor Açıklaması                     | Rapor Türleri  |
+|:-----------:|:-----------:|:--------------------------------------------------------:|:--------------:|
+|  LBRYINFO   |  L751TUQP   |       Görev Yapılan Kurum Bilgileri (Aktif Görev)        |      PDF       |
+|  LBRYINFO   |  UPJSIGMZ   | Görevlendirme Geçmişi (Görev Yapılan Kurum ve Yetkiler)  |      PDF       |
