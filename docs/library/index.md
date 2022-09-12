@@ -1,6 +1,6 @@
 ---
 id: librarymodule
-title: Kurum Yönetimi Modülü
-description: Kurum yönetimi ekranı.
+title: Kurum İşlemleri Modülü
+description: Kurum işlemleri ekranı.
 sidebar_position: 3
 ---

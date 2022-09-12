@@ -1,76 +1,54 @@
 ---
 id: register
-title: Kullanıcı Hesabı Oluşturma
-description: Yeni kullanıcı hesabı oluşturma rehberi.
+title: Kütüphane Kaydı Oluştur
+description: Yeni kütüphane kaydı oluşturma ekranı.
 sidebar_position: 2
 ---
 
+# Kütüphane Kaydı Oluşturma
 
-# Kullanıcı Hesabı Oluşturma
-
-LibraSoft kütüphane otomasyonunu daha önce hiç kullanmadıysanız öncelikle bir kullanıcı hesabı oluşturmanız gerekir.
+LibraSoft kullanmaya hazırlanan bir kütüphane yöneticisiyseniz tam da olmanız gereken yerdesiniz! Yeni bir kullanıcı hesabı oluşturduktan sonra eğer adınıza herhangi bir kurumda görevlendirme işlemi yapılmamış ise hesabınıza giriş yaptığınızda sizi kütüphane kayıt ekranı karşılayacaktır.
 
 :::info Bilgilendirme
 
-Kullanıcı hesabı sadece kurum personeli kullanıcılar için gereklidir. Herhangi bir kurum sahibi ya da görevlisi değilseniz bir kullanıcı hesabına ihtiyacınız yoktur. _Şimdilik..._
+Kütüphane kayıt işlemi sadece müdür yetkili kullanıcı tarafından yapılmalıdır.
 
 :::
 
-### İlk Adım
+![Kütüphane Kayıt Ekranı](https://cdn.kutuphaneotomasyonu.web.tr/assets/docs/register-library.png)
 
-Bir kullanıcı hesabı oluşturmak için öncelikli giriş sayfasında bulunan kayıt olma linkine ya da [buraya](https://kutuphaneotomasyonu.web.tr/register) tıklayınız.
+Eğer bir kurumda görevli değilseniz hesabınıza giriş yaptığınızda fotoğraftaki gibi bir ekran ile karşılaşacaksınız.
 
-### Kullanıcı Bilgileri
+### Bilgilerin Doldurulması
 
-Açılan sayfada yer alan bilgilerin tamamını doldurmanız büyük önem arz etmektedir.
+#### - Kurum Adı
 
-:::danger Uyarı
+Kütüphanenizin adını belirtiniz. Raporlarda, ekranlarda bu kurum adı kullanılacaktır.
 
-Girmiş olduğunuz kimlik bilgileriniz sistem tarafından doğrulanacaktır. Kimlik bilgilerinizin doğrulanamamsı durumunda hesap oluşturma işlemine devam edemeyeceksiniz.
-Lütfen bilgilerin eksiksiz ve doğru olduğundan emin olunuz.
+#### - Lisans Sahibi
 
-:::
+Lisans sahibi olarak görünecek kişi ya da kurumları yazabilirsiniz. Örneğin lisans bir üniversiteye ait ise üniversite adını yazabilirsiniz. **Lisans sahibi bilgisi daha sonra güncellenemez.**
 
-#### - Ad, Soyad
+#### - Kurum Türü
 
-Ad, soyad bilginizin doğru olduğundan emin olunuz. Lütfen ikinci bir adınız var ise belirtmeyi unutmayınız. Ad, soyad bilgisi kimliğinizdeki gibi olmalıdır. 
+Yeni güncellemeler ile birlikte kurum türüne özel eklentiler eklenmesi planlanmıştır. Eklentilerden en iyi şekilde yararlanabilmek için lütfen kurumunuza en uygun kurum türünü seçiniz.
 
-#### - TC Kimlik Numarası
+#### - İl
 
-Sisteme giriş yaparken ve kurumlar tarafından işlem sağlanırken TC Kimlik Numaranız ile işlem sağlanacaktır.
+Bu ekranda sadece il bilgisi girilmektedir. Kayıt işlemi tamamlandıktan sonra ilçe ve adres bilgilerini girebilirsiniz.
 
-#### - Doğum Tarihi
+#### - Telefon Numarası, Mail
 
-Kimlik bilgilerinizin doğrulanması için gereklidir. Takvim ikonuna tıklayarak seçim yapmanız size kolaylık sağlayacaktır.
+Kurumunuz ile iletişime geçilmesi gereken durumlarda bu kısımda yer alan mail adresi ve telefon numarası kullanılacaktır. Farklı bir iletişim kanalı tercih edilmeyecektir.
 
-#### - Mail Adresi
+### Kayıt İşlemi
 
-Doğru bir mail adresi belirtmeniz büyük önem arz etmektedir. Sistem ve kurum duyuruları bu mail adresi üzerinden gönderilecek, tarafınıza iletişim sadece bu mail adresi üzerinden sağlanacaktır. 
+Bilgileri doldurduktan sonra son kontrolleri sağlayarak bilgilerin doğruluğundan emin olunuz. Üst kısımda yer alan işlem menüsünden **Kaydet** butonu ile kayıt işlemini tamamlayınız. Eğer bir hata almazsanız ekran otomatik olarak güncellenecektir.
 
-#### - Telefon Numarası
+_Sizi aramızda görmekten çok mutluyuz!_
 
-SMS bilgilendirmeleri ve iki adımlı giriş için gereklidir. Telefon numaranızın güncelliğini sağlamak yine sizin sorumluluğunuzdadır.
+:::success Bilgilendirme
 
-#### - Şifre
-
-Hesabınıza giriş yapabilmeniz için gerekli olan şifredir. Eğer bir kurumda yetkili personel iseniz kurum yöneticileriniz tarafından size yeni şifre atanabilir.
-Yeni şifre atanamadığı ve hesabınıza erişemediğiniz durumlarda telefonunuza gelecek sms doğrulaması ile yeni şifre oluşturabilirsiniz.
-
-Sistem tarafınızdan oluşturduğunuz şifrenin güvenlik düzeyi kontrol edilecek ve sistem içerisinde belirlenen güvenlik standartlarında olması için tarafınıza bilgilendirme sağlanacaktır. 
-Minimum gereksinimler ise şu şekildedir.
- - En az 1 adet büyük harf,
- - En az 1 adet küçük harf,
- - En az 1 adet rakam,
- - En az 1 adet özel karakter içermelidir.
-
-Minimum gereksinimi karşılamayan şifreler sistem tarafından kabul edilmeyecektir.
-
-### Kayıt Ol
-
-:::danger Uyarı
-
-**Dikkat!** Daha önce de belirtmiş olduğumuz gibi bilgilerinizin güncel olması sizin sorumluluğunuzdadır. Bilgilerin güncel olmamasından doğacak problemlerden kütüphane kurum, kuruluşları ya da LibraSoft Kütüphane Otomasyonu yazılımı sorumlu tutulamaz.
+Yeni kayıt yapan her kurum için 14 günlük deneme lisansı sistem tarafından otomatik tanımlanmaktadır. Bu sürede özelliklerden istediğiniz gibi yararlanabilir, sistemi test edebilirsiniz. Otomasyondan memnun kalırsanız deneme süresi sonunda satın alabilirsiniz.
 
 :::
-
-Bilgileri eksiksiz doldurduktan sonra kayıt ol butonuna tıklıyoruz ve kayıt işlemini tamamlıyoruz. İşlem başarılı bildirimini gördükten sonra artık girmiş olduğumuz bilgilerimiz ile sisteme giriş yapabiliriz!
