@@ -29,6 +29,6 @@ Her türlü sorun, öneri ve görüşlerinizi için bizlere iletisim@kutuphaneot
 
 ## Teşekkür
 
-- Bu projenin hayata geçirilmesi konusunda desteklerini hiçbir zaman esirgemeyen [@kmurathepgunes_arts](https://www.instagram.com/kmurathepgunes_arts)'e teşekkürler... 
+- Bu projenin hayata geçirilmesi konusunda desteklerini hiçbir zaman esirgemeyen, 20 yıllık tecrübesi ile İngilizce öğretmeni sayın, [Keramettin Murat HEPGÜNEŞ](https://www.instagram.com/kmurathepgunes_arts)'e teşekkürler... 
 
   

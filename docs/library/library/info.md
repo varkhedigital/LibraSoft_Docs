@@ -15,7 +15,7 @@ Bilgilerin güncel olmamasından doğacak sorunlardan kurumunuz sorumludur.
 
 :::
 
-![Kurum Bilgileri Ekranı](https://img.kutuphaneotomasyonu.web.tr/library-info.png)
+![Kurum Bilgileri Ekranı](https://cdn.kutuphaneotomasyonu.web.tr/assets/docs/library-info.png)
 
 ### Bilgilerin Doldurulması
 
@@ -37,17 +37,17 @@ Yeni güncellemeler ile birlikte kurum türüne özel eklentiler eklenmesi planl
 
 > **Aktif Kurum:** Aktif bir lisansı bulunan, herhangi bir askıya alma cezası almamış kurumları ifade eder. Otomasyonu tam erişim ile kullanabilirler.
 
-> **Pasif Kurum:** Faaliyetleri otomasyon tarafından otomatik olarak ya da sistem yöneticisi tarafından manuel olarak askıya alınmış kurumları ifade eder. Kurumlar otomasyon üzerinde işlem yetkileri kısıtlıdır. _Kurumun faaliyetlerinin askıya alınma sebebi **Kapalı Olma Nedeni** kısmında belirtilecektir._ ![Kapalı Olma Nedeni Örnek](https://img.kutuphaneotomasyonu.web.tr/close-reason.png)
+> **Pasif Kurum:** Faaliyetleri otomasyon tarafından otomatik olarak ya da sistem yöneticisi tarafından manuel olarak askıya alınmış kurumları ifade eder. Kurumlar otomasyon üzerinde işlem yetkileri kısıtlıdır. _Kurumun faaliyetlerinin askıya alınma sebebi **Kapalı Olma Nedeni** kısmında belirtilecektir._ ![Kapalı Olma Nedeni Örnek](https://cdn.kutuphaneotomasyonu.web.tr/assets/docs/close-reason.png)
 
 #### - İl, İlçe, Adres
 
 Fatura adresi olarak kullanılacaktır. Henüz bilgi girişi yapılmamış ise ilgili kısımlar aktiftir. Bilgi girişi yapıldığında otomatik olarak sistem tarafından kilitlenir ve düzenleme sağlanamaz.
 
 > İlçelerin görüntülenebilmesi için öncelikle il seçimi yapılarak kayıt işlemi yapılır.
-> ![Kilitli Olmayan Kısımlar](https://img.kutuphaneotomasyonu.web.tr/unlocked-inputs.png)
+> ![Kilitli Olmayan Kısımlar](https://cdn.kutuphaneotomasyonu.web.tr/assets/docs/unlocked-inputs.png)
 
 > Bilgi girişi sağlandıktan sonra otomatik olarak ilgili alanlar kilitlenir.
-> ![Kilitli Kısımlarr](https://img.kutuphaneotomasyonu.web.tr/locked-inputs.png)
+> ![Kilitli Kısımlarr](https://cdn.kutuphaneotomasyonu.web.tr/assets/docs/locked-inputs.png)
 
 #### - Telefon Numarası, Mail
 

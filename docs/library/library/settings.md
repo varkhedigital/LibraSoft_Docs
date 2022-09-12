@@ -7,7 +7,7 @@ sidebar_position: 2
 
 Kurumunuz ve otomasyon ile ilgili birçok ayar bu ekrandan yapılmaktadır. Alt kısımda ayarlar hakkında detaylı bilgi yer almaktadır.
 
-![Genel Ayarlar](https://img.kutuphaneotomasyonu.web.tr/general-settings.png)
+![Genel Ayarlar](https://cdn.kutuphaneotomasyonu.web.tr/assets/docs/general-settings.png)
 
 ## Ayarlar
 

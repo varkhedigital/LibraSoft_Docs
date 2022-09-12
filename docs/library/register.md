@@ -15,7 +15,7 @@ Kütüphane kayıt işlemi sadece müdür yetkili kullanıcı tarafından yapıl
 
 :::
 
-![Kütüphane Kayıt Ekranı](https://img.kutuphaneotomasyonu.web.tr/register-library.png)
+![Kütüphane Kayıt Ekranı](https://cdn.kutuphaneotomasyonu.web.tr/assets/docs/register-library.png)
 
 Eğer bir kurumda görevli değilseniz hesabınıza giriş yaptığınızda fotoğraftaki gibi bir ekran ile karşılaşacaksınız.
 
